@@ -1,3 +1,4 @@
 # Generate-quote
-Author- Ismail Shaikh
 
+Author- Ismail Shaikh [ismail1500]
+    
